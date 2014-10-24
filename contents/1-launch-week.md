@@ -1,6 +1,6 @@
 {{{
   "title": "Post-launch week update, and future plans",
-  "tags": [launch"],
+  "tags": ["launch"],
   "category": "general",
   "date": "10-23-2014"
 }}}
