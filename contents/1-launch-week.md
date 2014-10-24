@@ -9,7 +9,7 @@ It has been a week since RemoteCoder [launched on Hacker News](https://news.ycom
 
 Over the past week we've already made a number of improvements and additions to the site:
 
-* **RSS feed** - we now have an [RSS feed](http://feedpress.me/remotecoder) of all of our jobs, and this feeds into our [twitter feed](https://twitter.com/remotecoder).
+* **Filtered RSS feed** - we now have filtered RSS feeds so you can subscribe to a feed of just the jobs you're interested in. Our [global RSS feed](http://feedpress.me/remotecoder) is still available, and all jobs also get posted to our [twitter feed](https://twitter.com/remotecoder).
 
 * **Keyword search** - users can now search jobs by keyword on the front page, leading to better filtering.
 
@@ -21,7 +21,7 @@ Over the past week we've already made a number of improvements and additions to 
 
 * **Blog** - what you're looking at!
 
-* **Legal docments** - we've added [terms and conditions](/terms-and-conditions) and a [privacy policy](/privacy-policy).
+* **Legal documents** - we've added [terms and conditions](/terms-and-conditions) and a [privacy policy](/privacy-policy).
 
 In addition to the above we've incorporated feedback from users such as enforcing visible company names and even fixing the HTML background image in-place for better visual scrolling.
 
