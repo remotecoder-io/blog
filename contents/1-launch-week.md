@@ -9,7 +9,7 @@ It has been a week since RemoteCoder [launched on Hacker News](https://news.ycom
 
 Over the past week we've already made a number of improvements and additions to the site:
 
-* **Filtered RSS feed** - we now have filtered RSS feeds so you can subscribe to a feed of just the jobs you're interested in. Our [global RSS feed](http://feedpress.me/remotecoder) is still available, and all jobs also get posted to our [twitter feed](https://twitter.com/remotecoder).
+* **RSS feeds** - we now have filtered RSS feeds so you can subscribe to a feed of just the jobs you're interested in. Our [global RSS feed](http://feedpress.me/remotecoder) is still available, and all jobs also get posted to our [twitter feed](https://twitter.com/remotecoder).
 
 * **Keyword search** - users can now search jobs by keyword on the front page, leading to better filtering.
 
@@ -27,10 +27,10 @@ In addition to the above we've incorporated feedback from users such as enforcin
 
 Going forward our priorities are to keep serving our existing userbase and build our readership base of high quality programmers and companies. With these in mind we are currently working on adding:
 
-* **Articles and interviews on remote working** - we would like to interview both companies who hire remotely and developers who work remotely, in order to engender greater understanding of the benefits and challenges of this style of work.
+* **Better job tools** - we intend to add more tools to enable employers to pre-vet candidates, such as custom questions on the application form.
 
-* **Filtered RSS feeds** - at the moment we have a single RSS feed. Soon we aim to enable customized RSS feeds based on the filtering criteria that matters to you.
+* **Articles and interviews on remote working** - we want to interview both companies who hire remotely and developers who work remotely, in order to engender greater understanding of the benefits and challenges of this style of work.
 
-* **The Wall** - a little _experiment_ (more on this in a later post...)
+* **Coder Wall** - a little experiment we're still exploring, but we want to enable remote programmers to build a mini-profile for themselves on the site.
 
 As we add more features and content over the coming weeks we will begin marketing RemoteCoder through further channels.
