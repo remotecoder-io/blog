@@ -2,7 +2,7 @@
   "title": "Post-launch week update, and future plans",
   "tags": ["launch"],
   "category": "general",
-  "date": "10-23-2014"
+  "date": "10-25-2014"
 }}}
 
 It has been a week since RemoteCoder [launched on Hacker News](https://news.ycombinator.com/item?id=8464074) and I'm pleased to say that we have already helped companies find and hire great developers for their roles. We've also received plenty of feedback and enquiries of interest into our plans for the future. 
