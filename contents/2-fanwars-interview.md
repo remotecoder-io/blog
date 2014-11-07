@@ -1,4 +1,4 @@
-{{{ "title": "Remote employer interview - Fanwars.com", "tags": ["interview", "employer"], "category": "general", "date": "11-07-2014" }}}
+{{{ "title": "Remote employer interview - Fanwars", "tags": ["interview", "employer"], "category": "general", "date": "11-07-2014" }}}
 
 _We chat with Mohammad Forouzani, the CTO of [Fanwars.com](https://www.fanwars.com/) - an exciting fantasy sports startup - about remote hiring and working practices in their company..._
 
