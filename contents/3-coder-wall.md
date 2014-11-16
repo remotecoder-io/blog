@@ -5,7 +5,7 @@
   "date": "11-16-2014"
 }}}
 
-I am pleased to announce the launch of the [Coder Wall](/coders) ! Check it out and [let us know](https://twitter.com/remotecoder) what you think.
+I am pleased to announce the launch of the [Coder Wall](https://remotecoder.io/coders) ! Check it out and [let us know](https://twitter.com/remotecoder) what you think.
 
 The intention behind the Coder Wall is to showcase top remote developers along with links to their work. Developers can signup and create a mini-profile for themselves and then update it at their leisure. We want to keep the quality of the wall high so we will be vetting each profile individually. 
 
